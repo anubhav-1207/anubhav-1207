@@ -1,75 +1,59 @@
-# 💫 About Me:
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anubhav Ghoshal
+=======================================================================================================================================
 
-- **Currently working on:**  
-  A **math-oriented programming language** called **Cygnus**
+Edge computing, literally.
+--------------------------
 
-- **Open to collaborate on:**  
-  Any project within my abilities and interests
+I’m a Python developer currently building Cygnus, a math-oriented programming language.
 
-- **Looking for help with:**  
-  **Cygnus**—contributions, feedback, or ideas are welcome
+I love working on terminal-based projects, exploring OS concepts, and learning machine learning step by step.
 
-- **Currently learning:**  
-  Python and Machine Learning
+What makes my workflow unique?
 
-- **Ask me about:**  
-  Python, Operating Systems, and terminal-based projects
+I code entirely on a phone—no laptop, no PC—proving that great ideas don’t need heavy setups.
 
-- **Fun fact:**  
-  I **don’t have a laptop or PC**—I build everything using just a **phone**!
+Always open to collaboration and contributions to Cygnus or any interesting project within my abilities.
 
----
+* 🌍  I'm based in India
+* ✉️  You can contact me at [anubhabyt123@gmail.com](mailto:anubhabyt123@gmail.com)
+* 🚀  I'm currently working on [Cygnus](http://https://github.com/anubhav-1207/Cygnus)
+* 🧠  I'm learning Python & ML
+* 🤝  I'm open to collaborating on any project under my skillset.
+* ⚡  I love turtles
 
-## 🌐 Socials:
+<a href="https://www.github.com/anubhav-1207" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/anubhav-1207?logo=github&style=for-the-badge&color=facc15&labelColor=0f172a" /></a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/apoetixart)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anubhabyt123@gmail.com)
+### Skills
 
----
 
-# 💻 Tech Stack:
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a>
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)  
-![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=flat&logo=xfce&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  
-![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black)  
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)  
-![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
----
+### Socials
 
-# 📊 GitHub Stats:
+<p align="left"> <a href="https://www.github.com/anubhav-1207" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="http://www.instagram.com/apoetixart " target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a></p>
 
-![](https://github-readme-stats.vercel.app/api?username=anubhav-1207&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=anubhav-1207&theme=flag-india&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-1207&theme=flag-india&hide_border=false&layout=compact)
+### Badges
 
----
+<b>My GitHub Stats</b>
 
-## 🏆 GitHub Trophies:
+<a href="http://www.github.com/anubhav-1207"><img src="https://github-readme-stats.vercel.app/api?username=anubhav-1207&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="anubhav-1207's GitHub stats" /></a>
 
-![](https://github-profile-trophy.vercel.app/?username=anubhav-1207&theme=flag-india&no-frame=false&no-bg=true&margin-w=4)
+<a href="http://www.github.com/anubhav-1207"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav-1207&stroke=ffffff&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
----
+<a href="https://github.com/anubhav-1207" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-1207&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### 🔝 Top Contributed Repos:
+<b>Top Repositories</b>
 
-![](https://github-contributor-stats.vercel.app/api?username=anubhav-1207&limit=5&theme=flag-india&combine_all_yearly_contributions=true)
+<div width="100%" align="center"><a href="https://github.com/anubhav-1207/Cygnus" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhav-1207&repo=Cygnus&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
----
+### Support Me
 
-[![](https://visitcount.itsvg.in/api?id=anubhav-1207&icon=0&color=0)](https://visitcount.itsvg.in)
+<ul style="list-style-type: none; margin: 0;">
 
----
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/anubhav1207"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
-## 💰 Support Me:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anubhav1207)
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</ul>
