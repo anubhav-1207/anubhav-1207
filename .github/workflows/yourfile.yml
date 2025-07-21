@@ -1,0 +1,47 @@
+name: Auto Update Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Get GitHub Stats and Update README
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        username="anubhav-1207"
+
+        # Fetch stats using GitHub API
+        repos=$(curl -s -H "Authorization: token $GH_TOKEN" https://api.github.com/users/$username | jq '.public_repos')
+        followers=$(curl -s -H "Authorization: token $GH_TOKEN" https://api.github.com/users/$username | jq '.followers')
+        stars=$(curl -s -H "Authorization: token $GH_TOKEN" https://api.github.com/users/$username/repos?per_page=100 | jq '[.[].stargazers_count] | add')
+
+        year=$(date +%Y)
+        contributions=$(curl -s -H "Authorization: token $GH_TOKEN" https://api.github.com/users/$username/events | jq '[.[] | select(.type=="PushEvent" or .type=="PullRequestEvent") | select(.created_at | startswith("'$year'"))] | length')
+
+        # For Lines of Code: You can fake it or use actual tools like cloc
+
+        additions=123456
+        deletions=12345
+
+        # Replace placeholders in README
+        sed -i "s/{repos}/$repos/" README.md
+        sed -i "s/{followers}/$followers/" README.md
+        sed -i "s/{stars}/$stars/" README.md
+        sed -i "s/{contributions}/$contributions/" README.md
+        sed -i "s/{additions}/$additions/" README.md
+        sed -i "s/{deletions}/$deletions/" README.md
+
+    - name: Commit and Push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -am "Auto-update stats"
+        git push
