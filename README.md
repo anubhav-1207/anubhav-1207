@@ -12,7 +12,7 @@ ______________
 anubhav-1207@github
 ─────────────────────────────────────────────
 OS:.................Android 8/12/14 / Linux-Ubuntu
-Uptime Index:.............July 12, 2009 -> Present
+Uptime Index:.......July 12, 2009 -> Present
 Host:...............Self-hosted Student
 Kernel:.............Life 1.0 / Human BIOS
 IDE:................VSCode, IDLE Python 
