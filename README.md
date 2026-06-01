@@ -11,21 +11,16 @@ ______________
 ─────────────────────────────────────────────
 anubhav-1207@github
 ─────────────────────────────────────────────
-OS:.................Android 8/16 / Linux-Ubuntu,Alpine,Debian,
-Uptime Index:.......July 12, 2009 -> Present
-IDE:................VSCode
-
+Occupation:................Student
 Languages.Programming:.....Python, C
-Languages.Front-end:.......HTML, CSS
 Languages.Real:............English, Hindi, Bengali
-Fields.Learning:...........Compiler Design,ML
+Fields.Learning:...........Compiler Design, Low-Level Computation
 
-Platform:............Android, Linux(On Android)
+Platforms:............Android, Linux(On Android)
 Techstack:...........Python,C,Linux,Git
 ─────────────────────────────────────────────
-Working.On:................Upskilling
+Working.On:................My Own Interpreter 
 Collaboration.Interest:....Compilers,OS
-Preferred.Language:........English
 Ask.Me.Related.To..........Compilers
 Creator.Of.................San - My Own Programming Language 
 ─────────────────────────────────────────────
