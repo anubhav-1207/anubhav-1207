@@ -10,7 +10,8 @@ ______________
 
 ─────────────────────────────────────────────
 anubhav-1207@github
-https://notes-from-the-stack.vercel.app/
+:: Hackhazards'26 Winner
+:: https://notes-from-the-stack.vercel.app/
 ─────────────────────────────────────────────
 Occupation:................Student
 Languages.Programming:.....Python, C
