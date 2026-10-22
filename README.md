@@ -30,7 +30,7 @@ things from scratch.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,go,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,c,go,mysql,bash,md" />
 </p>
 
 ---
@@ -38,7 +38,9 @@ things from scratch.
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,neovim,vercel" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,neovim" />
+  <img src="https://skillicons.dev/icons?i=pycharm,vscodium,windows" />
+  
 </p>
 
 ---
