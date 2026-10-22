@@ -1,7 +1,6 @@
 <p align="center">
   <img src="anubhav-g-header-github (2).svg" width="100%" alt="Profile banner">
 </p>
-<h1 align="center">Anubhav G.</h1>
 
 <p align="center">
   <i>Building things and understanding why they work.</i>
@@ -26,22 +25,30 @@ engineering, and understanding what happens beneath the surface.
 I enjoy building projects, exploring new technologies, and learning by making
 things from scratch.
 
+---
+
 ### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,go,mysql" />
 </p>
 
+---
+
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,neovim" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,neovim,vercel" />
 </p>
+
+---
 
 ### Featured Projects
 
 - **[San](https://github.com/anubhav-1207/san)** — An interpreted programming language built from scratch in Python.
-- **[Project Fermion](https://github.com/anubhav-1207/Project-Fermion)** — Explore my other projects and experiments.
+- **[Other Projects](https://github.com/anubhav-1207/)** — Explore my other projects and experiments.
+
+---
 
 ### GitHub Stats
 
@@ -52,6 +59,3 @@ things from scratch.
 
 ---
 
-<p align="center">
-  <sub> Optimise me to the depths of my cells</sub>
-</p>
