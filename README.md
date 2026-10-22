@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Profile banner">
+  <img src="anubhav-g-header-github (2).svg" width="100%" alt="Profile banner">
 </p>
 <h1 align="center">Anubhav G.</h1>
 
