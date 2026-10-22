@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Profile banner">
+</p>
 <h1 align="center">Anubhav G.</h1>
 
 <p align="center">
